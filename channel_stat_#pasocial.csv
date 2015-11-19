@@ -1,0 +1,2 @@
+N_tweets,N_retweets,N_native_tweets,N_hash,N_mention,N_links,Nuniq_authors,Nuniq_hash,Nuniq_mentions,Nuniq_links,Nmean_links,Nfull_retweet,Nfull_retweet_missing,Nreplies,Nfavor,Ntweets0hashs,Ntweets1hashs,NtweetsNhashs,Ntweets0mentions,Ntweets1mentions,NtweetsNmentions,Ntweets0links,Ntweets1links,NtweetsNlinks
+4610,3133,1477,7780,7708,2062,779,380,448,603,0.87,6344,0,203,0,326,2493,1791,648,3962,0,2630,1898,82
